@@ -4,6 +4,8 @@
     height: 100%;
     background: #fffff0;
     padding: 40px;
+    max-width: 2000px;
+    margin: auto;
 }
 .wrapper h2{
     text-align: center;
